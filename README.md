@@ -1,7 +1,9 @@
 # Bangalore-Traffic-Prediction-App-AutoML-tpot-pycaret-ydataprofiling-
-Predict Bangalore’s traffic volume using AutoML tools like PyCaret and TPOT. This project preprocesses data, trains models, and provides real-time predictions via a Streamlit app, making it ideal for traffic management and analysis.
 
-Project Summary:This project predicts traffic volume in Bangalore using advanced machine learning techniques and tools. It preprocesses a dataset with traffic and environmental factors, trains models, and provides predictions through an interactive Streamlit app. With AutoML tools like PyCaret and TPOT, the project ensures high accuracy and streamlined pipeline optimization.
+Project Summary
+
+This project predicts traffic volume in Bangalore using advanced machine learning techniques and tools. It preprocesses a dataset with traffic and environmental factors, trains models, and provides predictions through an interactive Streamlit app. With AutoML tools like PyCaret and TPOT, the project ensures high accuracy and streamlined pipeline optimization.
+
 
 Key Features:
 
