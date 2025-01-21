@@ -1,11 +1,11 @@
 # Bangalore-Traffic-Prediction-App-AutoML-tpot-pycaret-ydataprofiling
 
-Project Summary   ( Pls note: main7.py is the primary working project)
+# Project Summary   ( Pls note: main7.py is the primary working project)
 
 This project predicts traffic volume in Bangalore using advanced machine learning techniques and tools. It preprocesses a dataset with traffic and environmental factors, trains models, and provides predictions through an interactive Streamlit app. With AutoML tools like PyCaret and TPOT, the project ensures high accuracy and streamlined pipeline optimization.
 
 
-Key Features:
+# Key Features:
 
 Predicts traffic volume based on multiple factors like area, weather, and road conditions.
 
@@ -17,7 +17,7 @@ Provides an interactive Streamlit app for uploading data and generating predicti
 
 Offers downloadable prediction results for further analysis.
 
-Modules Used:
+# Modules Used:
 
 PyCaret: Automated machine learning and model comparison.
 
@@ -33,7 +33,7 @@ Scikit-learn: Machine learning models and preprocessing tools.
 
 Pickle: Saving and loading models and pipelines.
 
-Domain Classification:
+# Domain Classification:
 
 #MachineLearning
 
